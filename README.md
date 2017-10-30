@@ -1,4 +1,4 @@
-# BootstrapPlusPlus
+# Bootstrap + +
 BootstrapPlusPlus is an open source UI KIT based on Bootstrap 4.0 CSS framework. It has all the Bootstrap styles with new look and more additional features for web developers or designers to create elegant web apps.
 
 # Usage
